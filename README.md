@@ -1,3 +1,5 @@
+![Database-HUB Cover](assets/cover.png)
+
 # 🗄️ Database-Hub
 
 Created by **Darion Kellar** — open source under the MIT License
